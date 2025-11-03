@@ -1,0 +1,6 @@
+random-joke-teller/
+├─ README.md
+├─ .gitignore
+├─ jokes.py
+└─ src/
+   └─ generator.py
